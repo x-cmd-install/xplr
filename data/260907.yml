@@ -5,15 +5,15 @@ about:
   head: d96991f
   archived: false
   latestVersion: "v1.1.1"
-  collectedAt: 2026-09-07T05:07:04Z
+  collectedAt: 2026-09-07T19:29:27Z
 timeline:
   created: 2021-02-24
   lastCommit: 2026-08-25
   lastRelease: 2026-08-15
 popularity:
-  star: 4817
+  star: 4816
   watcher: 36
-  fork: 95
+  fork: 96
   release: 107
   contributor: 40
   pullRequest: 438
@@ -82,7 +82,7 @@ total:
   commit: 950
 ---
 path: /home/runner/.x-repo/github.com/sayanarijit/xplr
-collectedAt: 2026-09-07T05:07:08Z
+collectedAt: 2026-09-07T19:29:30Z
 loc:
   Css:
     code: 72637
@@ -292,7 +292,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:09+00:00
+  collectedAt: 2026-09-07T19:29:31+00:00
   platform:
     darwin/arm64:
       name:  xplr-macos-aarch64.tar.gz
