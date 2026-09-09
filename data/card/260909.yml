@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.1"
   latestRelease: "v1.1.1"
   latestPrerelease: "v0.20.0-beta.3"
-  collectedAt: 2026-09-09T05:07:16Z
+  collectedAt: 2026-09-09T19:11:51Z
 timeline:
   created: 2021-02-24
   lastCommit: 2026-08-25
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-15
   lastPrerelease: 2022-10-27
 popularity:
-  star: 4819
+  star: 4822
   watcher: 36
-  fork: 96
+  fork: 95
   release: 107
   contributor: 40
   pullRequest: 438
@@ -86,7 +86,7 @@ total:
   commit: 950
 ---
 path: /home/runner/.x-repo/github.com/sayanarijit/xplr
-collectedAt: 2026-09-09T05:07:20Z
+collectedAt: 2026-09-09T19:11:55Z
 loc:
   Css:
     code: 72637
