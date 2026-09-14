@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1.1` (2026-08-15)
-- **Last commit**: 2026-08-25
+- **Last commit**: 2026-09-14
 - **Assets in release**: 16
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 403 · **Open PRs**: 0 · **Closed issues**: 262 · **Open issues**: 14 · **Commits**: 950
+- **Releases**: 107 · **Merged PRs**: 404 · **Open PRs**: 0 · **Closed issues**: 263 · **Open issues**: 13 · **Commits**: 952
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 2 | 0 | 0 | 1 | 1 |
-| last60d | 2026-07-15 | 1 | 7 | 0 | 0 | 1 | 25 |
-| 90d | 2026-06-15 | 1 | 7 | 0 | 0 | 1 | 25 |
-| last180d | 2026-03-17 | 1 | 7 | 0 | 1 | 1 | 25 |
-| 360d | 2025-09-18 | 2 | 11 | 0 | 4 | 3 | 32 |
-| last720d | 2024-09-23 | 5 | 23 | 0 | 12 | 8 | 51 |
+| 30d | 2026-08-15 | 1 | 2 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-16 | 1 | 8 | 0 | 1 | 0 | 26 |
+| 90d | 2026-06-16 | 1 | 8 | 0 | 1 | 0 | 26 |
+| last180d | 2026-03-18 | 1 | 8 | 0 | 2 | 0 | 26 |
+| 360d | 2025-09-19 | 2 | 12 | 0 | 5 | 2 | 33 |
+| last720d | 2024-09-24 | 5 | 24 | 0 | 13 | 7 | 53 |
 
 ## Release assets
 
@@ -86,18 +86,6 @@ Lowest-scoring checks:
 | [xplr-macos.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.1.1/xplr-macos.tar.gz) | 2.6 MiB | `native/darwin/x64` |
 | [xplr-macos.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.1.1/xplr-macos.tar.gz.asc) | 833 B | `native/darwin/x64` |
 
-## Distribution status
-
-Reported by **62** distros on [repology.org](https://repology.org/project/xplr). **15** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.0.1` | ⚠️ outdated |
-| Homebrew | `1.1.1` | ✅ latest |
-| Nix unstable | `1.1.1` | ✅ latest |
-| Alpine edge | `1.1.1` | ✅ latest |
-| openSUSE Tumbleweed | `1.0.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `xplr` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +95,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:12:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:19:33Z._
