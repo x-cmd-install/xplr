@@ -14,7 +14,7 @@ x install xplr
 
 ## Code insight
 
-Total: **86,185** lines of code across **44** files in the top 5 languages.
+Total: **86,198** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1.2` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-16
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 406 · **Open PRs**: 0 · **Closed issues**: 264 · **Open issues**: 12 · **Commits**: 956
+- **Releases**: 108 · **Merged PRs**: 407 · **Open PRs**: 0 · **Closed issues**: 265 · **Open issues**: 11 · **Commits**: 957
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 4 | 0 | 1 | 0 | 4 |
-| last60d | 2026-07-18 | 2 | 10 | 0 | 1 | 0 | 29 |
-| 90d | 2026-06-18 | 2 | 10 | 0 | 1 | 0 | 29 |
-| last180d | 2026-03-20 | 2 | 10 | 0 | 2 | 0 | 29 |
-| 360d | 2025-09-21 | 3 | 14 | 0 | 6 | 1 | 36 |
-| last720d | 2024-09-26 | 6 | 26 | 0 | 14 | 6 | 57 |
+| 30d | 2026-08-18 | 1 | 5 | 0 | 1 | 0 | 5 |
+| last60d | 2026-07-19 | 2 | 11 | 0 | 1 | 0 | 30 |
+| 90d | 2026-06-19 | 2 | 11 | 0 | 1 | 0 | 30 |
+| last180d | 2026-03-21 | 2 | 11 | 0 | 2 | 0 | 30 |
+| 360d | 2025-09-22 | 3 | 15 | 0 | 6 | 1 | 37 |
+| last720d | 2024-09-27 | 6 | 27 | 0 | 14 | 6 | 58 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:18:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:30:00Z._
