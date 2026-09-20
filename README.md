@@ -4,7 +4,7 @@
 
 A hackable, minimal, fast TUI file explorer
 
-![xplr](https://repo.x-cmd.io/xplr.svg)
+[![x-cmd/install — xplr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xplr.svg)](https://x-cmd.com/install/xplr)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,825 · **Forks**: 95 · **Open issues**: 276 · **Contributors**: 40
+- **Stars**: 4,827 · **Forks**: 96 · **Open issues**: 276 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 407 · **Open PRs**: 0 · **Closed issues**: 265 · **Open issues**: 11 · **Commits**: 957
+- **Releases**: 108 · **Merged PRs**: 407 · **Open PRs**: 1 · **Closed issues**: 265 · **Open issues**: 11 · **Commits**: 957
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 0 | 1 | 0 | 5 |
-| last60d | 2026-07-20 | 2 | 11 | 0 | 1 | 0 | 30 |
-| 90d | 2026-06-20 | 2 | 11 | 0 | 1 | 0 | 30 |
-| last180d | 2026-03-22 | 2 | 11 | 0 | 2 | 0 | 30 |
-| 360d | 2025-09-23 | 3 | 15 | 0 | 6 | 1 | 37 |
-| last720d | 2024-09-28 | 6 | 27 | 0 | 14 | 6 | 58 |
+| 30d | 2026-08-21 | 1 | 5 | 1 | 1 | 0 | 5 |
+| last60d | 2026-07-22 | 2 | 11 | 1 | 1 | 0 | 30 |
+| 90d | 2026-06-22 | 2 | 11 | 1 | 1 | 0 | 30 |
+| last180d | 2026-03-24 | 2 | 11 | 1 | 2 | 0 | 30 |
+| 360d | 2025-09-25 | 3 | 15 | 1 | 6 | 1 | 37 |
+| last720d | 2024-09-30 | 6 | 27 | 1 | 14 | 6 | 58 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:19:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:34Z._
