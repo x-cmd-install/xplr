@@ -4,7 +4,7 @@
 
 A hackable, minimal, fast TUI file explorer
 
-[![x-cmd/install — xplr Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xplr.svg)](https://x-cmd.com/install/xplr)
+[![x-cmd/install — xplr Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/xplr.svg)](https://x-cmd.com/install/xplr)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install xplr
 
 ## Code insight
 
-Total: **86,198** lines of code across **44** files in the top 5 languages.
+Total: **86,183** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Css | 72,637 | 280 | 8,142 | 10 |
-| Rust | 8,831 | 196 | 1,324 | 30 |
+| Rust | 8,816 | 196 | 1,324 | 30 |
 | Lua | 2,609 | 596 | 130 | 1 |
 | Sass | 1,121 | 137 | 151 | 2 |
 | Handlebars | 304 | 17 | 36 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.1.2` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-22
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 407 · **Open PRs**: 1 · **Closed issues**: 265 · **Open issues**: 11 · **Commits**: 957
+- **Releases**: 108 · **Merged PRs**: 409 · **Open PRs**: 1 · **Closed issues**: 265 · **Open issues**: 11 · **Commits**: 961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 5 | 1 | 1 | 0 | 4 |
-| last60d | 2026-07-24 | 2 | 11 | 1 | 1 | 0 | 30 |
-| 90d | 2026-06-24 | 2 | 11 | 1 | 1 | 0 | 30 |
-| last180d | 2026-03-26 | 2 | 11 | 1 | 2 | 0 | 30 |
-| 360d | 2025-09-27 | 3 | 15 | 1 | 6 | 1 | 37 |
-| last720d | 2024-10-02 | 6 | 27 | 1 | 14 | 6 | 58 |
+| 30d | 2026-08-24 | 1 | 6 | 1 | 1 | 0 | 7 |
+| last60d | 2026-07-25 | 2 | 13 | 1 | 1 | 0 | 33 |
+| 90d | 2026-06-25 | 2 | 13 | 1 | 1 | 0 | 33 |
+| last180d | 2026-03-27 | 2 | 13 | 1 | 2 | 0 | 33 |
+| 360d | 2025-09-28 | 3 | 17 | 1 | 6 | 1 | 40 |
+| last720d | 2024-10-03 | 6 | 29 | 1 | 14 | 6 | 62 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:22:04Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:22:21Z._
