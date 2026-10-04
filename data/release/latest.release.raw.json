@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2765958,
       "digest": "sha256:e1f4ee04402e9c984a69365858d8a409495e1fb0b3878dbb2c23dbcc90c6e1d0",
-      "download_count": 74,
+      "download_count": 79,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-linux-aarch64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2855257,
       "digest": "sha256:0e678a053f9ae46ae771b59369e1f7a74794ad427c1df0dc5ce4d1ce3ed010fc",
-      "download_count": 184,
+      "download_count": 193,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-linux.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2537980,
       "digest": "sha256:5f97de412cfbf6cb9b8ea26e4de542cf778671072997ded88c0fdc045ac05258",
-      "download_count": 69,
+      "download_count": 74,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-macos-aarch64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2774770,
       "digest": "sha256:e2fa82b0a9b99a7304889d69674029a5e3b98a4c51b2da93a299692b22afd788",
-      "download_count": 84,
+      "download_count": 89,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-macos.tar.gz"
@@ -654,13 +654,13 @@
   "body": "## What's Changed\r\n* fix: use portable mkdir for create_file mode by @mmustafasenoglu in https://github.com/sayanarijit/xplr/pull/780\r\n* fix: return Permissions::default() on Windows instead of panicking (#781) by @mmustafasenoglu in https://github.com/sayanarijit/xplr/pull/782\r\n* fix: detach silent commands into their own process group by @mmustafasenoglu in https://github.com/sayanarijit/xplr/pull/783\r\n\r\n## New Contributors\r\n* @mmustafasenoglu made their first contribution in https://github.com/sayanarijit/xplr/pull/780\r\n\r\n**Full Changelog**: https://github.com/sayanarijit/xplr/compare/v1.1.1...v1.1.2",
   "reactions": {
     "url": "https://api.github.com/repos/sayanarijit/xplr/releases/389099404/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   },
