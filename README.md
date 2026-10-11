@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,838 · **Forks**: 96 · **Open issues**: 276 · **Contributors**: 40
+- **Stars**: 4,838 · **Forks**: 97 · **Open issues**: 276 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 6 | 2 | 0 | 0 | 8 |
-| last60d | 2026-08-11 | 2 | 8 | 2 | 1 | 0 | 14 |
-| 90d | 2026-07-12 | 2 | 13 | 2 | 1 | 0 | 34 |
-| last180d | 2026-04-13 | 2 | 13 | 2 | 2 | 0 | 34 |
-| 360d | 2025-10-15 | 3 | 17 | 2 | 6 | 1 | 41 |
-| last720d | 2024-10-20 | 6 | 29 | 2 | 14 | 6 | 63 |
+| 30d | 2026-09-11 | 1 | 6 | 2 | 0 | 0 | 8 |
+| last60d | 2026-08-12 | 2 | 8 | 2 | 1 | 0 | 14 |
+| 90d | 2026-07-13 | 2 | 13 | 2 | 1 | 0 | 34 |
+| last180d | 2026-04-14 | 2 | 13 | 2 | 1 | 0 | 34 |
+| 360d | 2025-10-16 | 3 | 17 | 2 | 6 | 1 | 41 |
+| last720d | 2024-10-21 | 6 | 29 | 2 | 13 | 6 | 63 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:09:44Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:07:02Z._
