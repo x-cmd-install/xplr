@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2765958,
       "digest": "sha256:e1f4ee04402e9c984a69365858d8a409495e1fb0b3878dbb2c23dbcc90c6e1d0",
-      "download_count": 136,
+      "download_count": 137,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-linux-aarch64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2855257,
       "digest": "sha256:0e678a053f9ae46ae771b59369e1f7a74794ad427c1df0dc5ce4d1ce3ed010fc",
-      "download_count": 276,
+      "download_count": 282,
       "created_at": "2026-09-15T11:52:08Z",
       "updated_at": "2026-09-15T11:52:08Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.1.2/xplr-linux.tar.gz"
