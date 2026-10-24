@@ -1,22 +1,43 @@
-- repo: liguros_develop
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 1.1.2
-  origversion: null
-  status: newest
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
   summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
   licenses:
     - MIT
-    - Apache-2.0
-    - GPL-3
-    - Unicode-3.0
-    - Unicode-DFS-2016
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  licenses:
+    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: xplr
@@ -108,38 +129,6 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: xplr
-  visiblename: xplr
-  version: 1.0.0
-  origversion: null
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - sayanarijit@gmail.com
-    - 94suryateja@gmail.com
-    - pyrox@pyrox.dev
-    - miguel.madrid.mencia@gmail.com
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: liguros_stable
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 0.21.3
-  origversion: 0.21.3-r1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - MPL-2.0
-    - Unicode-DFS-2016
-  categories:
-    - app-misc
 - repo: alpine_3_23
   subrepo: community
   srcname: xplr
@@ -186,7 +175,7 @@
   visiblename: xplr
   version: 1.1.2
   origversion: 1.1.2-r0
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   maintainers:
     - omni+alpine@hack.org
@@ -199,7 +188,7 @@
   visiblename: xplr-doc
   version: 1.1.2
   origversion: 1.1.2-r0
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer (documentation)
   maintainers:
     - omni+alpine@hack.org
@@ -254,7 +243,7 @@
 - repo: crates_io
   srcname: xplr
   visiblename: xplr
-  version: 1.1.2
+  version: 1.2.1
   origversion: null
   status: newest
   summary: A hackable, minimal, fast TUI file explorer
@@ -275,7 +264,7 @@
   visiblename: app-misc/xplr
   version: 1.1.2
   origversion: null
-  status: newest
+  status: outdated
   summary: A hackable, minimal, fast TUI file explorer
   maintainers:
     - rmicielski@purelymail.com
@@ -292,22 +281,51 @@
 - repo: homebrew
   srcname: xplr
   visiblename: xplr
-  version: 1.1.2
+  version: 1.2.1
   origversion: null
   status: newest
   summary: Hackable, minimal, fast TUI file explorer
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: HEAD
+- repo: liguros_stable
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 0.21.3
+  origversion: 0.21.3-r1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 1.1.2
   origversion: null
-  status: rolling
-  summary: Hackable, minimal, fast TUI file explorer
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
 - repo: macports
   srcname: sysutils/xplr
   binname: xplr
   visiblename: xplr
-  version: 1.1.2
+  version: 1.2.1
   origversion: null
   status: newest
   summary: A hackable, minimal, fast TUI file explorer, stealing ideas from nnn & fzf
@@ -317,39 +335,6 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: xplr
   visiblename: xplr
@@ -369,6 +354,21 @@
   srcname: xplr
   visiblename: xplr
   version: 0.21.9
+  origversion: null
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  maintainers:
+    - sayanarijit@gmail.com
+    - 94suryateja@gmail.com
+    - pyrox@pyrox.dev
+    - miguel.madrid.mencia@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: xplr
+  visiblename: xplr
+  version: 1.0.0
   origversion: null
   status: outdated
   summary: Hackable, minimal, fast TUI file explorer
@@ -412,7 +412,7 @@
   visiblename: xplr
   version: 1.1.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   maintainers:
     - sayanarijit@gmail.com
@@ -501,7 +501,7 @@
   visiblename: sysutils/xplr
   version: 1.1.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -681,7 +681,7 @@
   visiblename: rust-xplr-debugsource
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package rust-xplr
   licenses:
     - MIT
@@ -693,7 +693,7 @@
   visiblename: rust-xplr-debugsource
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package rust-xplr
   licenses:
     - MIT
@@ -705,7 +705,7 @@
   visiblename: rust-xplr-devel
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - MIT
@@ -717,7 +717,7 @@
   visiblename: xplr
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -729,7 +729,7 @@
   visiblename: xplr
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -741,7 +741,7 @@
   visiblename: xplr-debuginfo
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package xplr
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -753,7 +753,7 @@
   visiblename: xplr-debuginfo
   version: 1.1.2
   origversion: 1.1.2-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package xplr
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -764,7 +764,7 @@
   visiblename: xplr
   version: 1.1.2
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI file explorer
   licenses:
     - MIT License
