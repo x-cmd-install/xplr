@@ -14,12 +14,12 @@ x install xplr
 
 ## 代码洞察
 
-合计: **86,633** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
+合计: **86,489** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Css | 72,637 | 280 | 8,142 | 10 |
-| Rust | 9,265 | 129 | 1,381 | 30 |
+| Rust | 9,190 | 118 | 1,371 | 32 |
 | Lua | 2,609 | 596 | 130 | 1 |
 | Sass | 1,121 | 137 | 151 | 2 |
 | Handlebars | 304 | 17 | 36 | 1 |
@@ -42,59 +42,59 @@ x install xplr
 
 ## 发布
 
-- **最新版本**: `v1.2.1` (2026-10-23)
-- **最近提交**: 2026-10-23
+- **最新版本**: `v1.2.2` (2026-10-25)
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 4,845 · **Fork**: 97 · **开放 issue**: 277 · **贡献者**: 40
+- **Star**: 4,846 · **Fork**: 97 · **开放 issue**: 277 · **贡献者**: 40
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 414 · **开放 PR**: 1 · **已关闭 issue**: 269 · **开放 issue**: 8 · **提交数**: 970
+- **发布数**: 111 · **已合并 PR**: 417 · **开放 PR**: 0 · **已关闭 issue**: 270 · **开放 issue**: 7 · **提交数**: 974
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 4 | 1 | 1 | 0 | 9 |
-| last60d | 2026-08-26 | 3 | 11 | 1 | 2 | 0 | 16 |
-| 90d | 2026-07-27 | 4 | 18 | 1 | 2 | 0 | 40 |
-| last180d | 2026-04-28 | 4 | 18 | 1 | 2 | 0 | 42 |
-| 360d | 2025-10-30 | 5 | 22 | 1 | 7 | 1 | 49 |
-| last720d | 2024-11-04 | 8 | 34 | 1 | 14 | 5 | 71 |
+| 30d | 2026-09-26 | 3 | 6 | 0 | 1 | 0 | 13 |
+| last60d | 2026-08-27 | 4 | 14 | 0 | 2 | 0 | 20 |
+| 90d | 2026-07-28 | 5 | 21 | 0 | 2 | 0 | 44 |
+| last180d | 2026-04-29 | 5 | 21 | 0 | 2 | 0 | 46 |
+| 360d | 2025-10-31 | 6 | 25 | 0 | 7 | 1 | 53 |
+| last720d | 2024-11-05 | 9 | 37 | 0 | 15 | 4 | 75 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [source.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/source.tar.gz.asc) | 833 B | `other` |
-| [xplr-linux-aarch64.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-aarch64.sha256) | 92 B | `native/linux/arm64` |
-| [xplr-linux-aarch64.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-aarch64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
-| [xplr-linux-aarch64.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-aarch64.tar.gz.asc) | 833 B | `native/linux/arm64` |
-| [xplr-linux-arm.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-arm.sha256) | 88 B | `native/linux/arm` |
-| [xplr-linux-arm.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-arm.tar.gz) | 3.7 MiB | `native/linux/arm` |
-| [xplr-linux-arm.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux-arm.tar.gz.asc) | 833 B | `native/linux/arm` |
-| [xplr-linux.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux.sha256) | 84 B | `other` |
-| [xplr-linux.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux.tar.gz) | 3.8 MiB | `native/unknown` |
-| [xplr-linux.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-linux.tar.gz.asc) | 833 B | `other` |
-| [xplr-macos-aarch64.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos-aarch64.sha256) | 92 B | `native/darwin/arm64` |
-| [xplr-macos-aarch64.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos-aarch64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [xplr-macos-aarch64.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos-aarch64.tar.gz.asc) | 833 B | `native/darwin/arm64` |
-| [xplr-macos.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos.sha256) | 84 B | `native/darwin/x64` |
-| [xplr-macos.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos.tar.gz) | 3.7 MiB | `native/darwin/x64` |
-| [xplr-macos.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-macos.tar.gz.asc) | 833 B | `native/darwin/x64` |
-| [xplr-v1.2.1.snap](https://github.com/sayanarijit/xplr/releases/download/v1.2.1/xplr-v1.2.1.snap) | 3.1 MiB | `other` |
+| [source.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/source.tar.gz.asc) | 833 B | `other` |
+| [xplr-linux-aarch64.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.sha256) | 92 B | `native/linux/arm64` |
+| [xplr-linux-aarch64.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [xplr-linux-aarch64.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.tar.gz.asc) | 833 B | `native/linux/arm64` |
+| [xplr-linux-arm.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.sha256) | 88 B | `native/linux/arm` |
+| [xplr-linux-arm.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.tar.gz) | 3.8 MiB | `native/linux/arm` |
+| [xplr-linux-arm.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.tar.gz.asc) | 833 B | `native/linux/arm` |
+| [xplr-linux.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.sha256) | 84 B | `other` |
+| [xplr-linux.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.tar.gz) | 3.8 MiB | `native/unknown` |
+| [xplr-linux.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.tar.gz.asc) | 833 B | `other` |
+| [xplr-macos-aarch64.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.sha256) | 92 B | `native/darwin/arm64` |
+| [xplr-macos-aarch64.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [xplr-macos-aarch64.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.tar.gz.asc) | 833 B | `native/darwin/arm64` |
+| [xplr-macos.sha256](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.sha256) | 84 B | `native/darwin/x64` |
+| [xplr-macos.tar.gz](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.tar.gz) | 3.7 MiB | `native/darwin/x64` |
+| [xplr-macos.tar.gz.asc](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.tar.gz.asc) | 833 B | `native/darwin/x64` |
+| [xplr-v1.2.2.snap](https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-v1.2.2.snap) | 3.2 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**56** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.0.1` | ⚠️ outdated |
-| Homebrew | `1.2.1` | ✅ latest |
+| Homebrew | `1.2.2` | ✅ latest |
 | Nix unstable | `1.1.2` | ⚠️ outdated |
 | Alpine edge | `1.1.2` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.0.1` | ⚠️ outdated |
@@ -108,4 +108,4 @@ xplr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:00:16Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:00:10Z._
