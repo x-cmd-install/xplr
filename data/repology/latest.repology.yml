@@ -1,3 +1,176 @@
+- repo: liguros_stable
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 0.21.3
+  origversion: 0.21.3-r1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: 1.2.2
+  origversion: null
+  status: newest
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: alpine_3_20
+  subrepo: community
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 0.21.8
+  origversion: 0.21.8-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: xplr
+  binname: xplr-doc
+  visiblename: xplr-doc
+  version: 0.21.8
+  origversion: 0.21.8-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 0.21.9
+  origversion: 0.21.9-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: xplr
+  binname: xplr-doc
+  visiblename: xplr-doc
+  version: 0.21.9
+  origversion: 0.21.9-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 1.0.0
+  origversion: 1.0.0-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: alpine_3_22
+  subrepo: community
+  srcname: xplr
+  binname: xplr-doc
+  visiblename: xplr-doc
+  version: 1.0.0
+  origversion: 1.0.0-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: xplr
+  binname: xplr
+  visiblename: xplr
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: xplr
+  binname: xplr-doc
+  visiblename: xplr-doc
+  version: 1.0.1
+  origversion: 1.0.1-r0
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer (documentation)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: xplr
@@ -7,110 +180,6 @@
   origversion: 1.1.0-r0
   status: outdated
   summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 0.21.8
-  origversion: 0.21.8-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: xplr
-  binname: xplr-doc
-  visiblename: xplr-doc
-  version: 0.21.8
-  origversion: 0.21.8-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 0.21.9
-  origversion: 0.21.9-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: xplr
-  binname: xplr-doc
-  visiblename: xplr-doc
-  version: 0.21.9
-  origversion: 0.21.9-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 1.0.0
-  origversion: 1.0.0-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: xplr
-  binname: xplr-doc
-  visiblename: xplr-doc
-  version: 1.0.0
-  origversion: 1.0.0-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer (documentation)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: xplr
-  binname: xplr
-  visiblename: xplr
-  version: 1.0.1
-  origversion: 1.0.1-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: xplr
-  binname: xplr-doc
-  visiblename: xplr-doc
-  version: 1.0.1
-  origversion: 1.0.1-r0
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer (documentation)
   maintainers:
     - omni+alpine@hack.org
   licenses:
@@ -219,75 +288,6 @@
     - lcook@freebsd.org
   categories:
     - misc
-- repo: gentoo_ovl_guru
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 1.1.2
-  origversion: null
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - Unicode-3.0
-    - Unicode-DFS-2016
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: 1.2.2
-  origversion: null
-  status: newest
-  summary: Hackable, minimal, fast TUI file explorer
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Hackable, minimal, fast TUI file explorer
-- repo: liguros_stable
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 0.21.3
-  origversion: 0.21.3-r1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - MPL-2.0
-    - Unicode-DFS-2016
-  categories:
-    - app-misc
-- repo: liguros_develop
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 1.1.2
-  origversion: null
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - Unicode-3.0
-    - Unicode-DFS-2016
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
 - repo: macports
   srcname: sysutils/xplr
   binname: xplr
@@ -567,18 +567,6 @@
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
   categories:
     - Unspecified
-- repo: terra_rawhide
-  srcname: rust-xplr
-  binname: rust-xplr-devel
-  visiblename: rust-xplr-devel
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
-  summary: Hackable, minimal, fast TUI file explorer
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: terra_40
   srcname: rust-xplr
   binname: xplr-debuginfo
@@ -711,6 +699,18 @@
     - MIT
   categories:
     - Development/Debug
+- repo: terra_rawhide
+  srcname: rust-xplr
+  binname: rust-xplr-devel
+  visiblename: rust-xplr-devel
+  version: 1.1.2
+  origversion: 1.1.2-1.fcrawhide
+  status: outdated
+  summary: Hackable, minimal, fast TUI file explorer
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: terra_rawhide
   srcname: rust-xplr
   binname: xplr
@@ -762,9 +762,9 @@
 - repo: wikidata
   srcname: Q107994278
   visiblename: xplr
-  version: 1.2.1
+  version: 1.2.2
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI file explorer
   licenses:
     - MIT License
