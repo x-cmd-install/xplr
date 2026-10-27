@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.2` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 417 · **Open PRs**: 0 · **Closed issues**: 270 · **Open issues**: 7 · **Commits**: 974
+- **Releases**: 111 · **Merged PRs**: 417 · **Open PRs**: 0 · **Closed issues**: 270 · **Open issues**: 7 · **Commits**: 976
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 6 | 0 | 1 | 0 | 13 |
-| last60d | 2026-08-27 | 4 | 14 | 0 | 2 | 0 | 20 |
-| 90d | 2026-07-28 | 5 | 21 | 0 | 2 | 0 | 44 |
-| last180d | 2026-04-29 | 5 | 21 | 0 | 2 | 0 | 46 |
-| 360d | 2025-10-31 | 6 | 25 | 0 | 7 | 1 | 53 |
-| last720d | 2024-11-05 | 9 | 37 | 0 | 15 | 4 | 75 |
+| 30d | 2026-09-27 | 3 | 6 | 0 | 1 | 0 | 15 |
+| last60d | 2026-08-28 | 4 | 14 | 0 | 2 | 0 | 22 |
+| 90d | 2026-07-29 | 5 | 21 | 0 | 2 | 0 | 46 |
+| last180d | 2026-04-30 | 5 | 21 | 0 | 2 | 0 | 48 |
+| 360d | 2025-11-01 | 6 | 25 | 0 | 7 | 1 | 55 |
+| last720d | 2024-11-06 | 9 | 37 | 0 | 15 | 4 | 77 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/xplr). **3** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/xplr). **4** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:00:09Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:21:19Z._
