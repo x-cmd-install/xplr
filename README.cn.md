@@ -26,13 +26,13 @@ x install xplr
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.2 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install xplr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 6 | 0 | 1 | 0 | 15 |
-| last60d | 2026-08-28 | 4 | 14 | 0 | 2 | 0 | 22 |
-| 90d | 2026-07-29 | 5 | 21 | 0 | 2 | 0 | 46 |
-| last180d | 2026-04-30 | 5 | 21 | 0 | 2 | 0 | 48 |
-| 360d | 2025-11-01 | 6 | 25 | 0 | 7 | 1 | 55 |
-| last720d | 2024-11-06 | 9 | 37 | 0 | 15 | 4 | 77 |
+| 30d | 2026-09-28 | 3 | 6 | 0 | 1 | 0 | 15 |
+| last60d | 2026-08-29 | 4 | 14 | 0 | 2 | 0 | 22 |
+| 90d | 2026-07-30 | 5 | 21 | 0 | 2 | 0 | 46 |
+| last180d | 2026-05-01 | 5 | 21 | 0 | 2 | 0 | 48 |
+| 360d | 2025-11-02 | 6 | 25 | 0 | 7 | 1 | 55 |
+| last720d | 2024-11-07 | 9 | 37 | 0 | 15 | 4 | 77 |
 
 ## Release 资产
 
@@ -89,7 +89,7 @@ x install xplr
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**56** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**55** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -108,4 +108,4 @@ xplr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:21:19Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:02:20Z._

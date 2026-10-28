@@ -26,13 +26,13 @@ Total: **86,489** lines of code across **46** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 6 | 0 | 1 | 0 | 15 |
-| last60d | 2026-08-28 | 4 | 14 | 0 | 2 | 0 | 22 |
-| 90d | 2026-07-29 | 5 | 21 | 0 | 2 | 0 | 46 |
-| last180d | 2026-04-30 | 5 | 21 | 0 | 2 | 0 | 48 |
-| 360d | 2025-11-01 | 6 | 25 | 0 | 7 | 1 | 55 |
-| last720d | 2024-11-06 | 9 | 37 | 0 | 15 | 4 | 77 |
+| 30d | 2026-09-28 | 3 | 6 | 0 | 1 | 0 | 15 |
+| last60d | 2026-08-29 | 4 | 14 | 0 | 2 | 0 | 22 |
+| 90d | 2026-07-30 | 5 | 21 | 0 | 2 | 0 | 46 |
+| last180d | 2026-05-01 | 5 | 21 | 0 | 2 | 0 | 48 |
+| 360d | 2025-11-02 | 6 | 25 | 0 | 7 | 1 | 55 |
+| last720d | 2024-11-07 | 9 | 37 | 0 | 15 | 4 | 77 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/xplr). **4** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/xplr). **5** are ✅ on the latest upstream release, **55** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:21:19Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:02:19Z._
