@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3814122,
       "digest": "sha256:bda62fc9bf323e25e5e667c584e44328ca481981f72cafd3c2441107fc7a3755",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3959619,
       "digest": "sha256:9fecbda256b41db0011820e311ef9dfc46974ba18e07740431dbbb6dff275449",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4035755,
       "digest": "sha256:3e0b6681d9155dc7201d0a964511fafaefe9a4c777ed19443738c5d7bd14ee3a",
-      "download_count": 71,
+      "download_count": 84,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3520907,
       "digest": "sha256:4f5ad87592478341f575bda135f364d82be91554edc70566f71571236c8fd3ad",
-      "download_count": 15,
+      "download_count": 22,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3894838,
       "digest": "sha256:b3428131bd657cbf04be7005a8bd2fb5578898f71b1b2dfcf09c99fda8ba66fa",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.tar.gz"
@@ -654,13 +654,13 @@
   "body": "## Highlight\r\n\r\n* This release fixes tty crashes when using `CustomGraphics`/`CustomOutput` introduced in 1.2.\r\n* Also done a major cleanup of the codebase to simplify many things.\r\n\r\n## What's Changed\r\n* Cleanup by @sayanarijit in https://github.com/sayanarijit/xplr/pull/794\r\n* Fix tty crash when rendering graphics by @sayanarijit in https://github.com/sayanarijit/xplr/pull/795\r\n* Rendered image quality will not be rich due to some simplification, but will be there eventually.\r\n\r\n**Full Changelog**: https://github.com/sayanarijit/xplr/compare/v1.2.1...v1.2.2",
   "reactions": {
     "url": "https://api.github.com/repos/sayanarijit/xplr/releases/423580276/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 1,
     "eyes": 0
   },

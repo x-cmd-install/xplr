@@ -1,65 +1,3 @@
-- repo: liguros_stable
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 0.21.3
-  origversion: 0.21.3-r1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - MPL-2.0
-    - Unicode-DFS-2016
-  categories:
-    - app-misc
-- repo: liguros_develop
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 1.1.2
-  origversion: null
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - Unicode-3.0
-    - Unicode-DFS-2016
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
-- repo: gentoo_ovl_guru
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 1.1.2
-  origversion: null
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - Unicode-3.0
-    - Unicode-DFS-2016
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: 1.2.2
-  origversion: null
-  status: newest
-  summary: Hackable, minimal, fast TUI file explorer
 - repo: alpine_3_20
   subrepo: community
   srcname: xplr
@@ -125,13 +63,6 @@
     - omni+alpine@hack.org
   licenses:
     - MIT
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Hackable, minimal, fast TUI file explorer
 - repo: alpine_3_22
   subrepo: community
   srcname: xplr
@@ -288,6 +219,75 @@
     - lcook@freebsd.org
   categories:
     - misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: 1.2.2
+  origversion: null
+  status: newest
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: liguros_stable
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 0.21.3
+  origversion: 0.21.3-r1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - Unicode-3.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
 - repo: macports
   srcname: sysutils/xplr
   binname: xplr
@@ -499,9 +499,9 @@
   srcname: sysutils/xplr
   binname: xplr
   visiblename: sysutils/xplr
-  version: 1.2.1
+  version: 1.2.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hackable, minimal, fast TUI file explorer
   maintainers:
     - pkgsrc-users@netbsd.org
