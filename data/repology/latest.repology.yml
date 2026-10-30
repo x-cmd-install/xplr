@@ -1,3 +1,27 @@
+- repo: homebrew
+  srcname: xplr
+  visiblename: xplr
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Hackable, minimal, fast TUI file explorer
+- repo: liguros_stable
+  srcname: app-misc/xplr
+  visiblename: app-misc/xplr
+  version: 0.21.3
+  origversion: 0.21.3-r1
+  status: outdated
+  summary: A hackable, minimal, fast TUI file explorer
+  maintainers:
+    - rmicielski@purelymail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+    - GPL-3
+    - MPL-2.0
+    - Unicode-DFS-2016
+  categories:
+    - app-misc
 - repo: alpine_3_20
   subrepo: community
   srcname: xplr
@@ -133,8 +157,8 @@
   srcname: xplr
   binname: xplr
   visiblename: xplr
-  version: 1.1.2
-  origversion: 1.1.2-r0
+  version: 1.2.1
+  origversion: 1.2.1-r0
   status: outdated
   summary: Hackable, minimal, fast TUI file explorer
   maintainers:
@@ -146,8 +170,8 @@
   srcname: xplr
   binname: xplr-doc
   visiblename: xplr-doc
-  version: 1.1.2
-  origversion: 1.1.2-r0
+  version: 1.2.1
+  origversion: 1.2.1-r0
   status: outdated
   summary: Hackable, minimal, fast TUI file explorer (documentation)
   maintainers:
@@ -245,30 +269,6 @@
   origversion: null
   status: newest
   summary: Hackable, minimal, fast TUI file explorer
-- repo: homebrew
-  srcname: xplr
-  visiblename: xplr
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Hackable, minimal, fast TUI file explorer
-- repo: liguros_stable
-  srcname: app-misc/xplr
-  visiblename: app-misc/xplr
-  version: 0.21.3
-  origversion: 0.21.3-r1
-  status: outdated
-  summary: A hackable, minimal, fast TUI file explorer
-  maintainers:
-    - rmicielski@purelymail.com
-  licenses:
-    - MIT
-    - Apache-2.0
-    - GPL-3
-    - MPL-2.0
-    - Unicode-DFS-2016
-  categories:
-    - app-misc
 - repo: liguros_develop
   srcname: app-misc/xplr
   visiblename: app-misc/xplr
@@ -679,9 +679,9 @@
   srcname: rust-xplr
   binname: rust-xplr-debugsource
   visiblename: rust-xplr-debugsource
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Debug sources for package rust-xplr
   licenses:
     - MIT
@@ -691,9 +691,9 @@
   srcname: rust-xplr
   binname: rust-xplr-debugsource
   visiblename: rust-xplr-debugsource
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Debug sources for package rust-xplr
   licenses:
     - MIT
@@ -703,9 +703,9 @@
   srcname: rust-xplr
   binname: rust-xplr-devel
   visiblename: rust-xplr-devel
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - MIT
@@ -715,9 +715,9 @@
   srcname: rust-xplr
   binname: xplr
   visiblename: xplr
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -727,9 +727,9 @@
   srcname: rust-xplr
   binname: xplr
   visiblename: xplr
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Hackable, minimal, fast TUI file explorer
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -739,9 +739,9 @@
   srcname: rust-xplr
   binname: xplr-debuginfo
   visiblename: xplr-debuginfo
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Debug information for package xplr
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
@@ -751,9 +751,9 @@
   srcname: rust-xplr
   binname: xplr-debuginfo
   visiblename: xplr-debuginfo
-  version: 1.1.2
-  origversion: 1.1.2-1.fcrawhide
-  status: outdated
+  version: 1.2.2
+  origversion: 1.2.2-1.fcrawhide
+  status: newest
   summary: Debug information for package xplr
   licenses:
     - Apache-2.0 AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND GPL-3.0-only AND MIT AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib
