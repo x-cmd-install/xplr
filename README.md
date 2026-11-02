@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,849 · **Forks**: 97 · **Open issues**: 278 · **Contributors**: 40
+- **Stars**: 4,848 · **Forks**: 97 · **Open issues**: 278 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 6 | 0 | 1 | 1 | 15 |
-| last60d | 2026-09-02 | 4 | 14 | 0 | 2 | 1 | 22 |
-| 90d | 2026-08-03 | 5 | 20 | 0 | 2 | 1 | 46 |
-| last180d | 2026-05-05 | 5 | 21 | 0 | 2 | 1 | 48 |
-| 360d | 2025-11-06 | 6 | 25 | 0 | 6 | 2 | 55 |
-| last720d | 2024-11-11 | 9 | 37 | 0 | 17 | 3 | 77 |
+| 30d | 2026-10-03 | 3 | 6 | 0 | 1 | 1 | 14 |
+| last60d | 2026-09-03 | 4 | 14 | 0 | 2 | 1 | 22 |
+| 90d | 2026-08-04 | 5 | 18 | 0 | 2 | 1 | 34 |
+| last180d | 2026-05-06 | 5 | 21 | 0 | 2 | 1 | 48 |
+| 360d | 2025-11-07 | 6 | 25 | 0 | 6 | 2 | 55 |
+| last720d | 2024-11-12 | 9 | 37 | 0 | 17 | 3 | 77 |
 
 ## Release assets
 
@@ -94,7 +94,7 @@ Reported by **62** distros on [repology.org](https://repology.org/project/xplr).
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.0.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.2.2` | ✅ latest |
 | Nix unstable | `1.1.2` | ⚠️ outdated |
 | Alpine edge | `1.2.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.0.1` | ⚠️ outdated |
@@ -108,4 +108,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:24:18Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:26:16Z._
