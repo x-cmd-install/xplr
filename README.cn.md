@@ -58,12 +58,12 @@ x install xplr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 6 | 0 | 1 | 1 | 14 |
-| last60d | 2026-09-03 | 4 | 14 | 0 | 2 | 1 | 22 |
-| 90d | 2026-08-04 | 5 | 18 | 0 | 2 | 1 | 34 |
-| last180d | 2026-05-06 | 5 | 21 | 0 | 2 | 1 | 48 |
-| 360d | 2025-11-07 | 6 | 25 | 0 | 6 | 2 | 55 |
-| last720d | 2024-11-12 | 9 | 37 | 0 | 17 | 3 | 77 |
+| 30d | 2026-10-04 | 3 | 6 | 0 | 1 | 1 | 14 |
+| last60d | 2026-09-04 | 4 | 14 | 0 | 2 | 1 | 22 |
+| 90d | 2026-08-05 | 5 | 18 | 0 | 2 | 1 | 34 |
+| last180d | 2026-05-07 | 5 | 21 | 0 | 2 | 1 | 48 |
+| 360d | 2025-11-08 | 6 | 25 | 0 | 6 | 2 | 55 |
+| last720d | 2024-11-13 | 9 | 37 | 0 | 17 | 3 | 77 |
 
 ## Release 资产
 
@@ -89,14 +89,14 @@ x install xplr
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**48** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/xplr) 上共有 **62** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `1.0.1` | ⚠️ outdated |
 | Homebrew | `1.2.2` | ✅ latest |
 | Nix unstable | `1.1.2` | ⚠️ outdated |
-| Alpine edge | `1.2.1` | ⚠️ outdated |
+| Alpine edge | `1.2.2` | ✅ latest |
 | openSUSE Tumbleweed | `1.0.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -108,4 +108,4 @@ xplr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:26:17Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:11:14Z._
