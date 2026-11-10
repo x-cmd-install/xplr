@@ -24,16 +24,6 @@ Total: **86,489** lines of code across **46** files in the top 5 languages.
 | Sass | 1,121 | 137 | 151 | 2 |
 | Handlebars | 304 | 17 | 36 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/sayanarijit/xplr>
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 6 | 0 | 1 | 1 | 14 |
-| last60d | 2026-09-10 | 4 | 14 | 0 | 1 | 1 | 19 |
-| 90d | 2026-08-11 | 5 | 16 | 0 | 2 | 1 | 24 |
-| last180d | 2026-05-13 | 5 | 21 | 0 | 2 | 1 | 48 |
-| 360d | 2025-11-14 | 6 | 25 | 0 | 6 | 2 | 54 |
-| last720d | 2024-11-19 | 9 | 37 | 0 | 16 | 3 | 77 |
+| 30d | 2026-10-11 | 3 | 6 | 0 | 1 | 1 | 14 |
+| last60d | 2026-09-11 | 4 | 14 | 0 | 1 | 1 | 19 |
+| 90d | 2026-08-12 | 5 | 16 | 0 | 2 | 1 | 24 |
+| last180d | 2026-05-14 | 5 | 21 | 0 | 2 | 1 | 48 |
+| 360d | 2025-11-15 | 6 | 24 | 0 | 6 | 2 | 54 |
+| last720d | 2024-11-20 | 9 | 37 | 0 | 16 | 3 | 77 |
 
 ## Release assets
 
@@ -108,4 +98,4 @@ Install metadata for xplr lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:51:50Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:39:07Z._
