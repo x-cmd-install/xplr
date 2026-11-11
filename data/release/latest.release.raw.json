@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:3fd838509fb27164891f1f3f3705a7ba57756643f1080ddfc85fbc6288be85f2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-25T18:29:05Z",
       "updated_at": "2026-10-25T18:29:05Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/source.tar.gz.asc"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:3d39534db5b6a31b949402bed31540dbabc529c10b3fd1ae294421dc5bc3ec2f",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3814122,
       "digest": "sha256:bda62fc9bf323e25e5e667c584e44328ca481981f72cafd3c2441107fc7a3755",
-      "download_count": 59,
+      "download_count": 62,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:ed3c316c118a7090988d39c2e569076ebbf5179f5df8898f200bd7a70d951d28",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-aarch64.tar.gz.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:6fad18b29b95fd4cda3b5c15410e385c63cdf0c7bb321e56b36147181e96dc75",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3959619,
       "digest": "sha256:9fecbda256b41db0011820e311ef9dfc46974ba18e07740431dbbb6dff275449",
-      "download_count": 35,
+      "download_count": 38,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:781d2b967ab1f1c690012ca82ff39a7c12356a4110c0a27adc5b1967d6c1a6cf",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux-arm.tar.gz.asc"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": "sha256:59ea2f227e59f544a87794d0aa8ec5b3c02d7ce841a4efe2a8cfeba8c7458770",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4035755,
       "digest": "sha256:3e0b6681d9155dc7201d0a964511fafaefe9a4c777ed19443738c5d7bd14ee3a",
-      "download_count": 206,
+      "download_count": 215,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:3fc0f98aa026c840917012c3855dd17b19ddb81f701e0e0473b6bb8f74db7abb",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-linux.tar.gz.asc"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:16e029002ba291a9a6f89489c1c8f69e0ab2129580818f0f442c376685bc44b7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3520907,
       "digest": "sha256:4f5ad87592478341f575bda135f364d82be91554edc70566f71571236c8fd3ad",
-      "download_count": 69,
+      "download_count": 74,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:9ac39f46622c8f57b2cb500d6f2585d3a2301af93cc7018ee8f8fca41852dd58",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos-aarch64.tar.gz.asc"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": "sha256:3032a34137ec91c2bf2909200248de38d4cc963182f7e8915fab474c5b026517",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:06Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3894838,
       "digest": "sha256:b3428131bd657cbf04be7005a8bd2fb5578898f71b1b2dfcf09c99fda8ba66fa",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:ee1c533f8e0982b134cf864e8b0aec7ddf2f20b0c580f53706c8af7d5b924240",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-25T18:29:06Z",
       "updated_at": "2026-10-25T18:29:07Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-macos.tar.gz.asc"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3317760,
       "digest": "sha256:b9275a6487c56c334df8563393ce98fede7bc830927d1306cdffa89df33cd314",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-25T18:31:50Z",
       "updated_at": "2026-10-25T18:31:51Z",
       "browser_download_url": "https://github.com/sayanarijit/xplr/releases/download/v1.2.2/xplr-v1.2.2.snap"
