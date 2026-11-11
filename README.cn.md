@@ -24,6 +24,16 @@ x install xplr
 | Sass | 1,121 | 137 | 151 | 2 |
 | Handlebars | 304 | 17 | 36 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5.2 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/sayanarijit/xplr>
@@ -48,12 +58,12 @@ x install xplr
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 6 | 0 | 1 | 1 | 14 |
-| last60d | 2026-09-11 | 4 | 14 | 0 | 1 | 1 | 19 |
-| 90d | 2026-08-12 | 5 | 16 | 0 | 2 | 1 | 24 |
-| last180d | 2026-05-14 | 5 | 21 | 0 | 2 | 1 | 48 |
-| 360d | 2025-11-15 | 6 | 24 | 0 | 6 | 2 | 54 |
-| last720d | 2024-11-20 | 9 | 37 | 0 | 16 | 3 | 77 |
+| 30d | 2026-10-12 | 3 | 6 | 0 | 1 | 1 | 14 |
+| last60d | 2026-09-12 | 4 | 14 | 0 | 1 | 1 | 19 |
+| 90d | 2026-08-13 | 5 | 16 | 0 | 2 | 1 | 24 |
+| last180d | 2026-05-15 | 5 | 21 | 0 | 2 | 1 | 48 |
+| 360d | 2025-11-16 | 6 | 24 | 0 | 6 | 2 | 54 |
+| last720d | 2024-11-21 | 9 | 37 | 0 | 16 | 3 | 77 |
 
 ## Release 资产
 
@@ -98,4 +108,4 @@ xplr 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:39:08Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:45:14Z._
